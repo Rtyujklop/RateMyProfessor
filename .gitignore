@@ -1,0 +1,8 @@
+.env
+
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+
+test_data.json
+global-bundle.pem
